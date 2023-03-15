@@ -35,4 +35,4 @@ def mergeSort(Dizi,solDizi,sagDizi):
         k = k + 1
         
 merge(Dizi)
-print(Dizi)
+print("en büyük sayı : ",Dizi[len(Dizi)-1])
