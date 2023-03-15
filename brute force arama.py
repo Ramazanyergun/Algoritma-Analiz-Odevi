@@ -1,7 +1,7 @@
 import random
 Dizi = []
-for i in range(10):
-   Dizi.append(random.randint(0,10))
+for i in range(1000):
+   Dizi.append(random.randint(0,100000))
 
 def en_buyuk_sayi(Dizi):
     en_buyuk = Dizi[0]
