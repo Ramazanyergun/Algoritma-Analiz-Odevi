@@ -1,7 +1,7 @@
 import random
 Dizi = []
-for i in range(100):
-   Dizi.append(random.randint(0,100))
+for i in range(1000):
+   Dizi.append(random.randint(0,100000))
 
 def sirala(Dizi):
    
